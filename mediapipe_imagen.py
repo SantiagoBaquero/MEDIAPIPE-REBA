@@ -6,7 +6,7 @@ mp_pose = mp.solutions.pose
 
 with mp_pose.Pose(
         static_image_mode=True) as pose:
-    image = cv2.imread("prueba2.jpg")
+    image = cv2.imread("prueba.jpg")
     height, width, _ = image.shape
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
