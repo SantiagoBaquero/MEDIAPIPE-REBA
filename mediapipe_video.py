@@ -5,7 +5,6 @@ mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 
 cap = cv2.VideoCapture("Video2.mp4")
-
 with mp_pose.Pose(
     static_image_mode=False) as pose:
 

@@ -16,6 +16,7 @@ with mp_pose.Pose(
     if results.pose_landmarks is not None:
         mp_drawing.draw_landmarks(image, results.pose_landmarks,
                                   mp_pose.POSE_CONNECTIONS)
+        
 
 cv2.imshow("Image", image)
 cv2.waitKey(0)
