@@ -2,7 +2,9 @@
 # MediaPipe y REBA
 
 > [!TIP]
-> Puedes decargar Pycharm en este link o pagina oficial: https://www.jetbrains.com/es-es/pycharm/download/?section=windows
+> Puedes decargar PyCharm en este link pagina oficial: https://www.jetbrains.com/es-es/pycharm/download/?section=windows
+> 
+> Tambien puedes buscar PyCharm en tu navegador de preferencia.
 
 > [!IMPORTANT]
 > Version de Python requerida 3.11
