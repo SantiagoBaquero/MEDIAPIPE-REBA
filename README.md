@@ -41,7 +41,7 @@
 <img src="https://github.com/user-attachments/assets/848e0176-188e-4663-90ff-204f985b4355" alt="imagen">
 
 
-
+<p>Esta son las lineas de codigo presentes la linea que contiene "image = cv2.imread("prueba2.jpg")"  es donde podemos realizar el cambio de archivo correspondiente al que deseamos trabajar en este caso se llama prueba2.jpg</p>
 
  ```
   import cv2
@@ -68,4 +68,5 @@
   cv2.destroyAllWindows()
 
  ```
+
 
