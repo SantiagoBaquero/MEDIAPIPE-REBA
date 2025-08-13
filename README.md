@@ -31,7 +31,17 @@
 
 # mediapipe_imagen.py
 
-<p> Ingresando al archivo mediapipe_imagen.py encontraremos el siguiente codigo primeramente importaremos el CV2 y el mediapipe si no lo tienen instaldo y estan usando PyCharm al ejecutar el codigo en la parte inferior mostrara "Install packages" el cual les realiza la instalacion correspondiente del CV2 o del Mediapipe esto se repite 2 veces al ejecutar el codigo si lo realizamos de esta forma como se muestra en las imagenes inferiores.</p>
+<p> Ingresando al archivo mediapipe_imagen.py encontraremos el siguiente codigo primeramente importaremos el CV2 y el mediapipe si no lo tienen instaldo y estan usando PyCharm al ejecutar el codigo en la parte inferior mostrara "Install packages" el cual les realiza la instalacion correspondiente del Mediapipe esto se visualiza al ejecutar el codigo o ejecuando el comando en la terminal "pip install mediapipe".</p>
+
+
+ ```
+   pip install mediapipe
+ ```
+
+<img src="https://github.com/user-attachments/assets/848e0176-188e-4663-90ff-204f985b4355" alt="imagen">
+
+
+
 
  ```
   import cv2
